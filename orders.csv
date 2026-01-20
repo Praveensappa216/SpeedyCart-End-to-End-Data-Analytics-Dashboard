@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,order_value,payment_mode,city
+O1001,C001,2023-06-01,420,UPI,Hyderabad
+O1002,C002,2023-06-02,180,Credit Card,Bangalore
+O1003,C003,2023-06-03,560,Debit Card,Delhi
+O1004,C004,2023-06-05,240,UPI,Mumbai
+O1005,C001,2023-06-07,310,Wallet,Hyderabad
+O1006,C005,2023-06-08,150,Cash,Chennai
+O1007,C006,2023-06-09,480,Credit Card,Ahmedabad
+O1008,C007,2023-06-10,220,UPI,Pune
+O1009,C008,2023-06-11,390,Debit Card,Hyderabad
+O1010,C003,2023-06-12,610,Credit Card,Delhi

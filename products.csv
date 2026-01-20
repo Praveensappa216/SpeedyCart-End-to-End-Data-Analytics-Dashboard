@@ -1,0 +1,9 @@
+product_id,product_name,category,price,stock_status
+P001,Milk 1L,Dairy,55,In Stock
+P002,Bread,Snacks,40,In Stock
+P003,Apple 1kg,Fruits,120,Low Stock
+P004,Rice 5kg,Grains,320,In Stock
+P005,Potato 1kg,Vegetables,35,Out of Stock
+P006,Eggs 12 pack,Dairy,90,In Stock
+P007,Chips,Snacks,30,In Stock
+P008,Tomato 1kg,Vegetables,28,Low Stock

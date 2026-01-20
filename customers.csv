@@ -1,0 +1,9 @@
+customer_id,customer_name,city,age_group,gender,membership_type,signup_date
+C001,Rahul Sharma,Hyderabad,25-34,Male,Premium,2023-01-15
+C002,Anjali Rao,Bangalore,18-24,Female,Regular,2023-02-10
+C003,Amit Verma,Delhi,35-44,Male,Premium,2023-03-05
+C004,Priya Singh,Mumbai,25-34,Female,Regular,2023-03-18
+C005,Suresh Kumar,Chennai,45-54,Male,Regular,2023-04-02
+C006,Neha Patel,Ahmedabad,25-34,Female,Premium,2023-04-20
+C007,Rohan Mehta,Pune,18-24,Male,Regular,2023-05-11
+C008,Kavya Reddy,Hyderabad,35-44,Female,Premium,2023-05-25

@@ -1,0 +1,11 @@
+order_id,delivery_partner,delivery_time_minutes,delivery_rating,delay_status
+O1001,Ravi,18,5,On Time
+O1002,Suresh,25,4,Delayed
+O1003,Anil,20,5,On Time
+O1004,Manoj,30,3,Delayed
+O1005,Ravi,16,5,On Time
+O1006,Karthik,22,4,On Time
+O1007,Suresh,28,3,Delayed
+O1008,Anil,19,5,On Time
+O1009,Ravi,17,5,On Time
+O1010,Manoj,35,2,Delayed

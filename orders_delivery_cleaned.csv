@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,order_value,payment_mode,city,delivery_partner,delivery_time_minutes,delivery_rating,delay_status,is_delayed
+O1001,C001,2023-06-01,420,UPI,Hyderabad,Ravi,18,5,On Time,False
+O1002,C002,2023-06-02,180,Credit Card,Bangalore,Suresh,25,4,Delayed,True
+O1003,C003,2023-06-03,560,Debit Card,Delhi,Anil,20,5,On Time,False
+O1004,C004,2023-06-05,240,UPI,Mumbai,Manoj,30,3,Delayed,True
+O1005,C001,2023-06-07,310,Wallet,Hyderabad,Ravi,16,5,On Time,False
+O1006,C005,2023-06-08,150,Cash,Chennai,Karthik,22,4,On Time,True
+O1007,C006,2023-06-09,480,Credit Card,Ahmedabad,Suresh,28,3,Delayed,True
+O1008,C007,2023-06-10,220,UPI,Pune,Anil,19,5,On Time,False
+O1009,C008,2023-06-11,390,Debit Card,Hyderabad,Ravi,17,5,On Time,False
+O1010,C003,2023-06-12,610,Credit Card,Delhi,Manoj,35,2,Delayed,True
